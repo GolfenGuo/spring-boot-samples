@@ -7,7 +7,7 @@
 
   <groupId>netgloo</groupId>
   <artifactId>spring-boot-basewebapp</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>spring-boot-basewebapp</name>
   <description>Spring Boot base web application</description>
